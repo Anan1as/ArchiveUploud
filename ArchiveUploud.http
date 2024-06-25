@@ -1,0 +1,6 @@
+@ArchiveUploud_HostAddress = http://localhost:5095
+
+GET {{ArchiveUploud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
